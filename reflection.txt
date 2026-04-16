@@ -1,0 +1,3 @@
+Not sure if I'm supposed to write a reflection report so I just created this in case. I will upload the screenshots and query results just in case as well.
+
+This was an interesting section on AWS. It has been fun learning how to store and query data remotely through S3 buckets and AWS Glue. The biggest challenge is definitely just remember all the different steps to take.
